@@ -11,7 +11,7 @@
   Flask + PostgreSQL backend + React frontend. Detects and visualizes market signals (RSI, MACD, Bollinger Bands, Volume Spikes).
 
 - **🧠 [NeuraNote.ai](https://github.com/golkelj/NeuraNote)**  
-  Co-Founder & Lead Engineer. Building an MVP for automated memory retention using LLMs + spaced repetition.
+  Co-Founder & Lead Engineer. Building an MVP for automated memory retention using LLMs + AWS services.
 
 ---
 
