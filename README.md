@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript (ES6+), SQL, C, C++, Java
+- **Languages:** Python, JavaScript (ES6+), SQL, C, C++, Java, C#
 - **Frontend:** React, Vite, TailwindCSS
 - **Backend:** Flask, Node.js, Express, FastAPI
 - **Databases:** PostgreSQL, SQLite
