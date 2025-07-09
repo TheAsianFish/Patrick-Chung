@@ -19,7 +19,7 @@
 
 - **Languages:** Python, JavaScript (ES6+), SQL, C, C++, Java
 - **Frontend:** React, Vite, TailwindCSS
-- **Backend:** Flask, Node.js, Express
+- **Backend:** Flask, Node.js, Express, FastAPI
 - **Databases:** PostgreSQL, SQLite
 - **Tools:** GitHub, Docker (learning), Vercel, AWS (learning)
 
