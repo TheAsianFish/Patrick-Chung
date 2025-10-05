@@ -35,5 +35,5 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/patrick-ji-chung))
+- [LinkedIn]((https://linkedin.com/in/patrick-ji-chung))
 - [GitHub](https://github.com/TheAsianFish)  
