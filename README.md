@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Patrick Chung
 
 🎓 **CS @ UC San Diego**  
-💡 Full-stack developer with interests in building end-to-end products, backend systems, and AI automation
+💡 Full-stack developer focused on building end-to-end products, backend systems, quantitative trading tools, and AI automation
 
 ---
 
@@ -19,17 +19,18 @@
 
 - **Languages:** Python, JavaScript (ES6+), SQL, C, C++, Java, C#
 - **Frontend:** React, Vite, TailwindCSS
-- **Backend:** Flask, Node.js, Express, FastAPI
-- **Databases:** PostgreSQL, SQLite
-- **Tools:** GitHub, Docker (learning), Vercel, AWS (learning)
+- **Backend:** Flask, Node.js, Express, FastAPI, .NET/Blazor
+- **Databases:** PostgreSQL, SQLite, SQL Server
+- **Tools:** GitHub, Docker (learning), Vercel, AWS (learning), Azure DevOps, Git
 
 ---
 
-### 📈 Interests
+### 📈 Focus Areas
 
-- Algorithmic Trading / Quant Finance
+- Startup-grade full-stack development  
+- Data-driven automation and AI pipelines
 - AI for productivity and education
-- Building real-world full-stack tools that solve problems
+- Building products that move from zero → one
 
 ---
 
