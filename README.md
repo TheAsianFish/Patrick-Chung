@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Patrick Chung
 
 🎓 **CS @ UC San Diego**  
-💡 Full-stack developer with interests in quantitative trading, backend systems, and AI automation
+💡 Full-stack developer with interests in building end-to-end products, backend systems, and AI automation
 
 ---
 
 ### 🚀 Current Projects
 
 - **💹 [Trading Bot Dashboard](https://github.com/TheAsianFish/trading-bot)**  
-  Flask + PostgreSQL backend + React frontend. Detects and visualizes market signals (RSI, MACD, Bollinger Bands, Volume Spikes).
+  Full-stack trading dashbaord with a Flask + PostgreSQL backend and React frontend. Detects and visualizes market signals (RSI, MACD, Bollinger Bands, Volume Spikes).
 
 - **🧠 [NeuraNote.ai](https://github.com/golkelj/NeuraNote)**  
-  Co-Founder & Lead Engineer. Building an MVP for automated memory retention using LLMs + AWS services.
+  Co-Founder & Lead Engineer. Building an MVP for automated memory retention using LLMs and AWS-based pipelines.
 
 ---
 
