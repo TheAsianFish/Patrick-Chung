@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Patrick Chung
 
 🎓 **CS @ UC San Diego**  
-💡 Full-stack developer focused on building end-to-end products, backend systems, quantitative trading tools, and AI automation
+💡 Full-stack developer who enjoys building end-to-end products — from backend systems and trading infrastructure to AI-powered tools that automate learning and analysis.
 
 ---
 
@@ -36,5 +36,5 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn]((https://linkedin.com/in/patrick-ji-chung))
+- [LinkedIn](https://linkedin.com/in/patrick-ji-chung)
 - [GitHub](https://github.com/TheAsianFish)  
