@@ -32,6 +32,7 @@
 - Data-driven automation and AI pipelines for optimization
 - AI for productivity and education
 - Building products that move from zero → one
+- Turning ideas into real solutions for real people
 - Break into startups
 
 ---
